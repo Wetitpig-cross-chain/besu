@@ -7,6 +7,7 @@
 #### Dependencies
 ### Bug fixes
 - fix block import tracing, refactor BlockProcessor interface [#8549](https://github.com/hyperledger/besu/pull/8549)
+- Shorten and standardise log labels in AbstractEngineNewPayload and AbstractEngineForkchoiceUpdated [#8568](https://github.com/hyperledger/besu/pull/8568)
 
 ## 25.4.1
 
